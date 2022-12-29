@@ -1,0 +1,22 @@
+/* .formControl {
+
+} */
+.loginLink:hover{
+    text-decoration: underline;
+    
+}
+.register{
+  margin-top: 15px;
+  margin-left: 90px; 
+  margin-right: 90px; 
+  margin-bottom: 100px;
+  
+  
+  /* width: 800px;
+  height: 800px; */
+  /* background-color: rgb(138, 161, 180); */
+  margin-bottom:300px;
+}
+.regist{
+  background-color: rgb(138, 161, 180);
+}

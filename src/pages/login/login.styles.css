@@ -1,0 +1,20 @@
+/* .formControl {
+  background-color: blueviolet;
+} */
+.loginLink:hover{
+    text-decoration: underline;
+    
+}
+.portal
+{
+  /* background: url('../../assets/images/a3.png'); */
+   margin-top: 20px; 
+  margin-left: 400px;
+  
+  width: 500px;
+  height: 500px;
+  background-color: rgb(138, 161, 180);
+  /* margin-bottom:300px; */
+  
+} 
+

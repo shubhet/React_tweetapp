@@ -1,0 +1,16 @@
+/* .formControl {
+
+} */
+.loginLink:hover{
+    text-decoration: underline;
+    
+}
+.forgot{
+  margin-top: 20px;
+  margin-left: 350px;
+  /* margin-bottom: 900px; */
+  width: 500px;
+  height: 500px;
+  background-color: rgb(138, 161, 180);
+  margin-bottom:300px;
+}
